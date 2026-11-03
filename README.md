@@ -6,31 +6,15 @@ We did this in a previous assignment. You can review how to fork a repository at
 
 ## Step 2: Download the Google Colab notebook and data files from this repository
 
-![Notebook file Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_CreateSQLPythonDataPipeline/raw/refs/heads/main/Week12_Database_Colab_new.ipynb)
+![Notebook file Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_CreateSQLPythonDataPipeline/raw/refs/heads/main/Week13_Pipeline_Starter.ipynb)
 
 (If you just use a regular click on the link above, the raw JSON file will display in your browser window.)
 
-![clinics.csv Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_BuildHealthcareDatabase/raw/refs/heads/main/clinics.csv)
+![clinics.csv Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_BCreateSQLPythonDataPipeline/raw/refs/heads/main/community_followup.sqlite)
 
-(If you just use a regular click on the link above, the raw JSON file will display in your browser window.)
+(If you just use a regular click on the link above, the raw file will display in your browser window.)
 
-![encounters.csv Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_BuildHealthcareDatabase/raw/refs/heads/main/encounters.csv)
-
-(If you just use a regular click on the link above, the raw CSV file will display in your browser window.)
-
-![followups.csv Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_BuildHealthcareDatabase/raw/refs/heads/main/followups.csv)
-
-(If you just use a regular click on the link above, the raw CSV file will display in your browser window.)
-
-![patients.csv Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_BuildHealthcareDatabase/raw/refs/heads/main/patients.csv)
-
-(If you just use a regular click on the link above, the raw CSV file will display in your browser window.)
-
-![referrals.csv Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_BuildHealthcareDatabase/raw/refs/heads/main/referrals.csv)
-
-(If you just use a regular click on the link above, the raw CSV file will display in your browser window.)
-
-## Step 3: Upload the notebook and data files to Google Colab
+## Step 3: Upload the notebook and data file to Google Colab
 
 [Google Colab](https://colab.research.google.com/) - File - Upload notebook
 
