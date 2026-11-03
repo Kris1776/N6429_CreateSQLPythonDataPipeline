@@ -1,4 +1,4 @@
-# N6429_Create an SQ-Python Data Pipeline
+# N6429_Create an SQL-Python Data Pipeline
 
 ## Step 1: Fork this repository
 
